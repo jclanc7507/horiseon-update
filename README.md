@@ -1,58 +1,28 @@
-# Code Refactor Starter Code
+# Horiseon
 
-## Grading Requirements
-    This challenge is graded based on the following criteria:
+## What We Offer:
 
-GIVEN a webpage meets accessibility standards
+## 1.) Search Engine Optimization (SEO)
+The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
 
-1.) WHEN I view the source code
+## 2.) Online Reputation Management
+The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
 
-THEN I find semantic HTML elements
+## 3.) Social Media Marketing
+Social media continues to have a sizable influence on buying habits. Social Media Marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
 
-2.) WHEN I view the structure of the HTML elements
+### Benefits of Using Horiseon:
+A.) Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
 
-THEN I find that the elements follow a logical structure independent of styling and positioning
+B.) Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
 
-3.) WHEN I view the image elements
+C.) As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
 
-THEN I find accessible alt attributes
+### Depolyment Web Link:
+https://jclanc7507.github.io/horiseon-update/
 
-4.) WHEN I view the heading attributes
+<!-- Not too sure why my link brings the viewer to the README file. -->
 
-THEN they fall in sequential order
+![Screenshot of final product.](./assets/images/screenshot.png) 
 
-5.) WHEN I view the title element
-
-THEN I find a concise, descriptive title
-
-## Technical Acceptance Criteria: 40%
-    Satisfies all of the preceding acceptance criteria plus the following code improvements:
-
-    Application's links all function correctly.
-
-    Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
-    Application's CSS file is properly commented.
-
-## Deployment: 32%
-    Application deployed at live URL.
-
-    Application loads with no errors.
-
-    Application GitHub URL submitted.
-
-    GitHub repository that contains application code.
-
-## Application Quality: 15%
-    Application resembles (at least 90%) screenshots provided in challenge instructions.
-
-## Repository Quality: 13%
-    Repository has a unique name.
-
-    Repository follows best practices for file structure and naming conventions.
-
-    Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-    Repository contains multiple descriptive commit messages.
-
-    Repository contains quality README file with description, screenshot, and link to deployed application.
+<!-- Screenshot is present in assets folder, but does not register in Preview. -->
